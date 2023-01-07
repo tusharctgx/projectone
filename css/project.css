@@ -6,12 +6,12 @@
 
 
 .head_container{
-  background-image: url(./images/banner/banner1.png);
+  background-image: url(/images/banner/banner1.png);
   background-size: cover;
   background-position: center;
   height: 669px;
   width: 1350px;
-  
+  min-height: auto;
   align-items: center;
   justify-content: center;
 
