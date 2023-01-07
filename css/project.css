@@ -6,7 +6,7 @@
 
 
 .head_container{
-  background-image: url(/images/banner/banner2.png);
+  background-image: url(./images/banner/banner1.png);
   background-size: cover;
   background-position: center;
   height: 669px;
@@ -46,29 +46,4 @@ font-weight: 400;
 font-size: 16px;
 line-height: 26px;
 text-align: right;
-
-
-
-}
-
-.btn_primary{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 16px 12px;
-  gap: 8px;
-  margin-top: 20px;
-  font-size: large;
-  font-weight:300 ;
-  color: white;
-  position: absolute;
-  width: 160px;
-  height: 56px;
-  left: 640px;
-  top: 438px;
-  
-  background: #FF5959;
-  border-radius: 5px;
-  border: none;
 }
